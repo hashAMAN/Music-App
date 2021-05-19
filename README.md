@@ -1,5 +1,5 @@
 # Music-App
-A simple animated music app made using HTML +CSS+ Javascript
+A simple animated music app made using HTML +CSS+ Javascript.
 
 Screenshot
 
